@@ -1,0 +1,13 @@
+/Users/matthewbonner/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.deps.json
+/Users/matthewbonner/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.runtimeconfig.json
+/Users/matthewbonner/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.runtimeconfig.dev.json
+/Users/matthewbonner/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.dll
+/Users/matthewbonner/repos/MethodExercise/MethodExercise/bin/Debug/netcoreapp3.1/MethodExercise.pdb
+/Users/matthewbonner/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.csproj.AssemblyReference.cache
+/Users/matthewbonner/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewbonner/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.AssemblyInfoInputs.cache
+/Users/matthewbonner/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.AssemblyInfo.cs
+/Users/matthewbonner/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.csproj.CoreCompileInputs.cache
+/Users/matthewbonner/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.dll
+/Users/matthewbonner/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.pdb
+/Users/matthewbonner/repos/MethodExercise/MethodExercise/obj/Debug/netcoreapp3.1/MethodExercise.genruntimeconfig.cache
