@@ -5,7 +5,6 @@ namespace MethodExercise
     class Program
 
     {
-        //I would have appreciated an explanation of the bonus steps in the exercise video. They were confusing.
 
         public static int Add(int num1, int num2)
         {
